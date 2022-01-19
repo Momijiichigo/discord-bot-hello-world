@@ -1,3 +1,7 @@
+/*
+  Instruction: https://deno.com/deploy/docs/tutorial-discord-slash
+*/
+
 // Sift is a small routing library that abstracts away details like starting a
 // listener on a port, and provides a simple function (serve) that has an API
 // to invoke a function for a specific path.
