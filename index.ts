@@ -63,7 +63,7 @@ async function home(request: Request) {
       // input at the top.
       type: 4,
       data: {
-        content: `ウンチいい, ${value}!`,
+        content: `aaa ${value}!`,
       },
     });
   }
